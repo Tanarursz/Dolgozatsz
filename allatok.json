@@ -1,0 +1,34 @@
+[
+    {
+        "nev": "kutya",
+        "tulajdonsagok": [
+            "ugat",
+            "szőrös",
+            "háziállat"
+        ]
+    },
+    {
+        "nev": "macska",
+        "tulajdonsagok": [
+            "dorombol",
+            "szőrös",
+            "háziállat"
+        ]
+    },
+    {
+        "nev": "kígyó",
+        "tulajdonsagok": [
+            "csúszik",
+            "hidegvérű",
+            "nincs lába"
+        ]
+    },
+    {
+        "nev": "hal",
+        "tulajdonsagok": [
+            "úszik",
+            "hidegvérű",
+            "van uszonya"
+        ]
+    }
+]
